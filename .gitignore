@@ -1,0 +1,8 @@
+/.*
+!/.gitignore
+backup
+lib
+*.exe
+*.lps
+!*.lpi
+!*.lpr
